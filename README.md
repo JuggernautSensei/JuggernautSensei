@@ -23,7 +23,7 @@ C/C++ 기반으로 **Window 플랫폼**에서 **게임 개발**, **실시간 3D 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![DirectX](https://img.shields.io/badge/DirectX%2011-107C10?style=for-the-badge&logo=directx&logoColor=white)
-![Network](https://img.shields.io/badge/Network%2011-107C10?style=for-the-badge&logo=directx&logoColor=white)
+![Network](https://img.shields.io/badge/Network-0EA5E9?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Windows API](https://img.shields.io/badge/Windows%20API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -34,8 +34,6 @@ C/C++ 기반으로 **Window 플랫폼**에서 **게임 개발**, **실시간 3D 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JuggernautSensei&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuggernautSensei&layout=compact&theme=dark&hide_border=true" width="30%"/>
 <img src="https://streak-stats.demolab.com/?user=JuggernautSensei&theme=dark&hide_border=true" width="80%"/>
 
 </div>
@@ -45,5 +43,6 @@ C/C++ 기반으로 **Window 플랫폼**에서 **게임 개발**, **실시간 3D 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alsxm0030@gmail.com)
+![Phone](https://img.shields.io/badge/Phone-010--3809--5220-4CAF50?style=for-the-badge)
 
 </div>
