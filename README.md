@@ -37,6 +37,6 @@ C++20을 즐겨 사용하며, GPGPU 기술에도 관심이 많습니다.
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alsxm0030@gmail.com)
+![Discord](https://img.shields.io/badge/Discord-anjio__-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
