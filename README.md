@@ -31,22 +31,12 @@ C/C++ 기반으로 **Windows 환경**에서 **실시간 3D 그래픽스**와 **�
 
 </div>
 
-## 📌 Featured Projects
-
-| 프로젝트 | 설명 |
-|---|---|
-| 🧰 [JugX](https://github.com/JuggernautSensei/JugX) | 개인 프로젝트에서 쓰는 C++ 유틸리티 모음 (파일 IO, 해셔, 직렬화 등) |
-| 🌅 [RayTracingInOneWeekend](https://github.com/JuggernautSensei/RayTracingInOneWeekend) | Ray Tracing in One Weekend를 따라가며 구현한 레이트레이서 |
-| 🧠 [Simple_Implemented_Memory_Pool](https://github.com/JuggernautSensei/Simple_Implemented_Memory_Pool) | 메모리 풀 개념을 학습하고 직접 구현 |
-| 🪐 [Pknu_ComputerGraphics_SolarSystemRendering](https://github.com/JuggernautSensei/Pknu_ComputerGraphics_SolarSystemRendering) | 부경대학교 컴퓨터그래픽스 과목 학습 정리 및 태양계 렌더링 데모 |
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=JuggernautSensei&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuggernautSensei&layout=compact&theme=dark&hide_border=true" width="30%"/>
-
 <img src="https://streak-stats.demolab.com/?user=JuggernautSensei&theme=dark&hide_border=true" width="80%"/>
 
 </div>
