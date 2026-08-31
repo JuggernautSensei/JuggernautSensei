@@ -6,7 +6,8 @@
 
 ## 🧑‍💻 About Me
 
-C/C++ 기반으로 **Window 플랫폼**에서 **게임 개발**, **실시간 3D 그래픽스**, **네트워크 프로그래밍**을 파고드는 개발자입니다.
+C/C++ 기반으로 윈도우즈 플랫폼에서 게임, 실시간 3D 그래픽스, 네트워크 소프트웨어를 만드는 프로그래머입니다.
+모던 C++을 능숙하게 다루며, CUDA와 Compute Shader 같은 GPGPU 기술에도 관심이 많습니다.
 
 ### 🔨 무엇을 할 수 있나요?
 
@@ -23,18 +24,11 @@ C/C++ 기반으로 **Window 플랫폼**에서 **게임 개발**, **실시간 3D 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![DirectX](https://img.shields.io/badge/DirectX%2011-107C10?style=for-the-badge&logo=directx&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Network](https://img.shields.io/badge/Network-0EA5E9?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Windows API](https://img.shields.io/badge/Windows%20API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=JuggernautSensei&theme=dark&hide_border=true" width="80%"/>
 
 </div>
 
