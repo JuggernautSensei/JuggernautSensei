@@ -33,15 +33,6 @@ C/C++ 기반으로 **Windows 환경**에서 **실시간 3D 그래픽스**와 **�
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-[![JugX](https://github-readme-stats.vercel.app/api/pin/?username=JuggernautSensei&repo=JugX&theme=dark&hide_border=true)](https://github.com/JuggernautSensei/JugX)
-[![RayTracingInOneWeekend](https://github-readme-stats.vercel.app/api/pin/?username=JuggernautSensei&repo=RayTracingInOneWeekend&theme=dark&hide_border=true)](https://github.com/JuggernautSensei/RayTracingInOneWeekend)
-[![Simple_Implemented_Memory_Pool](https://github-readme-stats.vercel.app/api/pin/?username=JuggernautSensei&repo=Simple_Implemented_Memory_Pool&theme=dark&hide_border=true)](https://github.com/JuggernautSensei/Simple_Implemented_Memory_Pool)
-[![Pknu_ComputerGraphics_SolarSystemRendering](https://github-readme-stats.vercel.app/api/pin/?username=JuggernautSensei&repo=Pknu_ComputerGraphics_SolarSystemRendering&theme=dark&hide_border=true)](https://github.com/JuggernautSensei/Pknu_ComputerGraphics_SolarSystemRendering)
-
-</div>
-
 | 프로젝트 | 설명 |
 |---|---|
 | 🧰 [JugX](https://github.com/JuggernautSensei/JugX) | 개인 프로젝트에서 쓰는 C++ 유틸리티 모음 (파일 IO, 해셔, 직렬화 등) |
@@ -56,7 +47,7 @@ C/C++ 기반으로 **Windows 환경**에서 **실시간 3D 그래픽스**와 **�
 <img src="https://github-readme-stats.vercel.app/api?username=JuggernautSensei&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuggernautSensei&layout=compact&theme=dark&hide_border=true" width="30%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuggernautSensei&theme=dark&hide_border=true" width="80%"/>
+<img src="https://streak-stats.demolab.com/?user=JuggernautSensei&theme=dark&hide_border=true" width="80%"/>
 
 </div>
 
