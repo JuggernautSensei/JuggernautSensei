@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=JuggernautSensei&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%2FC%2B%2B%20%7C%20Windows%20%7C%20Real-Time%20Graphics%20%7C%20Network&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=650&lines=C%2FC%2B%2B%EB%A1%9C+%EC%8B%A4%EC%8B%9C%EA%B0%84+3D+%EA%B7%B8%EB%9E%98%ED%94%BD%EC%8A%A4%EB%A5%BC+%ED%8C%8C%EA%B3%A0%EB%93%AD%EB%8B%88%EB%8B%A4;Windows+%ED%94%8C%EB%9E%AB%ED%8F%BC+%EA%B2%8C%EC%9E%84%2F%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4;DirectX+11%2C+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%84+%EC%A6%90%EA%B9%81%EB%8B%88%EB%8B%A4" alt="Typing SVG" />
-
 </div>
 
 ## 🧑‍💻 About Me
