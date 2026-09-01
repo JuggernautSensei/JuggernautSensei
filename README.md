@@ -16,7 +16,7 @@ C++20을 즐겨 사용하며, GPGPU 기술에도 관심이 많습니다.
 
 <br>
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -24,7 +24,7 @@ C++20을 즐겨 사용하며, GPGPU 기술에도 관심이 많습니다.
 ![DirectX](https://img.shields.io/badge/DirectX%2011-107C10?style=for-the-badge&logo=directx&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Windows API](https://img.shields.io/badge/Windows%20API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Network](https://img.shields.io/badge/Network-0EA5E9?style=for-the-badge&logo=wireshark&logoColor=white)
+![Network](https://img.shields.io/badge/Network-0EA5E9?style=for-the-badge&logo=curl&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -45,7 +45,7 @@ C++20을 즐겨 사용하며, GPGPU 기술에도 관심이 많습니다.
 ## 📮 Contact
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alsxm0030@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/654309825215332382)
+[![Gmail](https://img.shields.io/badge/alsxm0030%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alsxm0030@gmail.com)
+[![Discord](https://img.shields.io/badge/juggernautsensei-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/654309825215332382)
 
 </div>
