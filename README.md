@@ -14,6 +14,8 @@ C++20을 즐겨 사용하며, GPGPU 기술에도 관심이 많습니다.
 - 🌐 게임 플레이에 적합한 실시간 네트워크 기능 개발
 - 🚀 GPGPU를 활용한 GPU 프로그래밍
 
+<br>
+
 ## 🛠️ Skills
 <div align="center">
 
@@ -27,17 +29,22 @@ C++20을 즐겨 사용하며, GPGPU 기술에도 관심이 많습니다.
 
 </div>
 
+<br>
+
 ## 🌐 Social
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JuggernautSensei/)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://juggernautsensei.notion.site/Jiwoo-s-Blog-c19c3fb6c02f82aa82be815072f54811)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuggernautSensei/)
+[![Notion](https://img.shields.io/badge/Notion%20Blog-000000?style=for-the-badge&logo=notion&logoColor=white)](https://juggernautsensei.notion.site/Jiwoo-s-Blog-c19c3fb6c02f82aa82be815072f54811)
 
 </div>
 
+<br>
+
 ## 📮 Contact
 <div align="center">
-  
-[![Gmail](https://img.shields.io/badge/alsxm0030%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alsxm0030@gmail.com)
-[![Discord](https://img.shields.io/badge/juggernautsensei-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/654309825215332382)
+
+[![Gmail](https://img.shields.io/badge/alsxm0030%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alsxm0030@gmail.com)
+[![Discord](https://img.shields.io/badge/juggernautsensei-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/654309825215332382)
+
 </div>
