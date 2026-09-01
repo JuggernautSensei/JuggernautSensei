@@ -26,7 +26,7 @@ C++20을 즐겨 사용하며, GPGPU 기술에도 관심이 많습니다.
 ![Windows API](https://img.shields.io/badge/Windows%20API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Network](https://img.shields.io/badge/Network-0EA5E9?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
