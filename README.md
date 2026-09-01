@@ -16,7 +16,7 @@ C++20을 즐겨 사용하며, GPGPU 기술에도 관심이 많습니다.
 
 <br>
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
