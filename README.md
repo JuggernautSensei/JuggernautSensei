@@ -17,9 +17,9 @@
 ## 📌 Pinned
 <div align="center">
 
-<a href="https://github.com/JuggernautSensei/JugX"><img src="assets/pin-jugx.svg" alt="JugX" width="260"/></a>
-<a href="https://github.com/JuggernautSensei/JugGfx"><img src="assets/pin-juggfx.svg" alt="JugGfx" width="260"/></a>
-<a href="https://github.com/JuggernautSensei/JugNet"><img src="assets/pin-jugnet.svg" alt="JugNet" width="260"/></a>
+<a href="https://github.com/JuggernautSensei/JugX"><img src="assets/pin-jugx.svg" alt="JugX" width="210"/></a>
+<a href="https://github.com/JuggernautSensei/JugGfx"><img src="assets/pin-juggfx.svg" alt="JugGfx" width="210"/></a>
+<a href="https://github.com/JuggernautSensei/JugNet"><img src="assets/pin-jugnet.svg" alt="JugNet" width="210"/></a>
 
 </div>
 
