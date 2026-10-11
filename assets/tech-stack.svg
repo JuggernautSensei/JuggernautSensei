@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="272" viewBox="0 0 450 272"><defs>
+<linearGradient id="bgt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1840"/><stop offset="1" stop-color="#0d0b22"/></linearGradient>
+<linearGradient id="bdt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00f0ff" stop-opacity=".55"/><stop offset="1" stop-color="#ff2e97" stop-opacity=".55"/></linearGradient>
+<linearGradient id="dxgt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9be58f"/><stop offset="1" stop-color="#2fa84f"/></linearGradient></defs><g>
+<rect x="0" y="0" width="96" height="96" rx="26" fill="url(#bgt)"/>
+<rect x="1" y="1" width="94" height="94" rx="25" fill="none" stroke="url(#bdt)" stroke-width="1.5"/>
+<svg x="25" y="23" width="46" height="46" viewBox="0 0 128 128"><path fill="#a9bacd" d="M125 50c-4-32-24-50-62-50C29 0 3 24 3 64c0 39 24 64 64 64 32 0 55-19 58-50H87c-2 11-8 20-20 20-21 0-24-16-24-33 0-23 8-35 22-35 13 0 20 7 22 20z" /></svg>
+<text x="48" y="118" text-anchor="middle" font-family="Segoe UI,Pretendard,Apple SD Gothic Neo,Arial,sans-serif" font-size="15" font-weight="600" fill="#c8d0f5">C</text></g><g>
+<rect x="118" y="0" width="96" height="96" rx="26" fill="url(#bgt)"/>
+<rect x="119" y="1" width="94" height="94" rx="25" fill="none" stroke="url(#bdt)" stroke-width="1.5"/>
+<svg x="143" y="23" width="46" height="46" viewBox="0 0 128 128">
+  <path fill="#00599c" d="M118.766 95.82c.89-1.543 1.441-3.28 1.441-4.843V36.78c0-1.558-.55-3.297-1.441-4.84l-55.32 31.94Zm0 0"/>
+  <path fill="#004482" d="m68.36 126.586 46.933-27.094c1.352-.781 2.582-2.129 3.473-3.672l-55.32-31.94L8.12 95.82c.89 1.543 2.121 2.89 3.473 3.672l46.933 27.094c2.703 1.562 7.13 1.562 9.832 0Zm0 0"/>
+  <path fill="#659ad2" d="M118.766 31.941c-.891-1.546-2.121-2.894-3.473-3.671L68.359 1.172c-2.703-1.563-7.129-1.563-9.832 0L11.594 28.27C8.89 29.828 6.68 33.66 6.68 36.78v54.196c0 1.562.55 3.3 1.441 4.843L63.445 63.88Zm0 0"/>
+  <path fill="#fff" d="M63.445 26.035c-20.867 0-37.843 16.977-37.843 37.844s16.976 37.844 37.843 37.844c13.465 0 26.024-7.247 32.77-18.91L79.84 73.335c-3.38 5.84-9.66 9.465-16.395 9.465-10.433 0-18.922-8.488-18.922-18.922 0-10.434 8.49-18.922 18.922-18.922 6.73 0 13.017 3.629 16.39 9.465l16.38-9.477c-6.75-11.664-19.305-18.91-32.77-18.91zM92.88 57.57v4.207h-4.207v4.203h4.207v4.207h4.203V65.98h4.203v-4.203h-4.203V57.57H92.88zm15.766 0v4.207h-4.204v4.203h4.204v4.207h4.207V65.98h4.203v-4.203h-4.203V57.57h-4.207z"/>
+</svg>
+<text x="166" y="118" text-anchor="middle" font-family="Segoe UI,Pretendard,Apple SD Gothic Neo,Arial,sans-serif" font-size="15" font-weight="600" fill="#c8d0f5">C++</text></g><g>
+<rect x="236" y="0" width="96" height="96" rx="26" fill="url(#bgt)"/>
+<rect x="237" y="1" width="94" height="94" rx="25" fill="none" stroke="url(#bdt)" stroke-width="1.5"/>
+<svg x="261" y="23" width="46" height="46" viewBox="0 0 24 24" fill="#76B900"><path d="M8.948 8.798v-1.43a6.7 6.7 0 0 1 .424-.018c3.922-.124 6.493 3.374 6.493 3.374s-2.774 3.851-5.75 3.851c-.398 0-.787-.062-1.158-.185v-4.346c1.528.185 1.837.857 2.747 2.385l2.04-1.714s-1.492-1.952-4-1.952a6.016 6.016 0 0 0-.796.035m0-4.735v2.138l.424-.027c5.45-.185 9.01 4.47 9.01 4.47s-4.08 4.964-8.33 4.964c-.37 0-.733-.035-1.095-.097v1.325c.3.035.61.062.91.062 3.957 0 6.82-2.023 9.593-4.408.459.371 2.34 1.263 2.73 1.652-2.633 2.208-8.772 3.984-12.253 3.984-.335 0-.653-.018-.971-.053v1.864H24V4.063zm0 10.326v1.131c-3.657-.654-4.673-4.46-4.673-4.46s1.758-1.944 4.673-2.262v1.237H8.94c-1.528-.186-2.73 1.245-2.73 1.245s.68 2.412 2.739 3.11M2.456 10.9s2.164-3.197 6.5-3.533V6.201C4.153 6.59 0 10.653 0 10.653s2.35 6.802 8.948 7.42v-1.237c-4.84-.6-6.492-5.936-6.492-5.936z"/></svg>
+<text x="284" y="118" text-anchor="middle" font-family="Segoe UI,Pretendard,Apple SD Gothic Neo,Arial,sans-serif" font-size="15" font-weight="600" fill="#c8d0f5">CUDA</text></g><g>
+<rect x="354" y="0" width="96" height="96" rx="26" fill="url(#bgt)"/>
+<rect x="355" y="1" width="94" height="94" rx="25" fill="none" stroke="url(#bdt)" stroke-width="1.5"/>
+<g transform="translate(402 46)" fill="none" stroke="url(#dxgt)" stroke-width="7.82" stroke-linecap="round"><line x1="-18.400000000000002" y1="-18.400000000000002" x2="18.400000000000002" y2="18.400000000000002"/><line x1="18.400000000000002" y1="-18.400000000000002" x2="-18.400000000000002" y2="18.400000000000002"/></g>
+<text x="402" y="118" text-anchor="middle" font-family="Segoe UI,Pretendard,Apple SD Gothic Neo,Arial,sans-serif" font-size="15" font-weight="600" fill="#c8d0f5">DirectX 11</text></g><g>
+<rect x="0" y="142" width="96" height="96" rx="26" fill="url(#bgt)"/>
+<rect x="1" y="143" width="94" height="94" rx="25" fill="none" stroke="url(#bdt)" stroke-width="1.5"/>
+<svg x="25" y="165" width="46" height="46" viewBox="0 0 128 128"><path fill="#0078d4" d="M67.328 67.331h60.669V128H67.328zm-67.325 0h60.669V128H.003zM67.328 0h60.669v60.669H67.328zM.003 0h60.669v60.669H.003z"/></svg>
+<text x="48" y="260" text-anchor="middle" font-family="Segoe UI,Pretendard,Apple SD Gothic Neo,Arial,sans-serif" font-size="15" font-weight="600" fill="#c8d0f5">Windows API</text></g><g>
+<rect x="118" y="142" width="96" height="96" rx="26" fill="url(#bgt)"/>
+<rect x="119" y="143" width="94" height="94" rx="25" fill="none" stroke="url(#bdt)" stroke-width="1.5"/>
+<svg x="143" y="165" width="46" height="46" viewBox="0 0 24 24" fill="none" stroke="#7dd3fc" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="16" y="16" width="6" height="6" rx="1" />
+  <rect x="2" y="16" width="6" height="6" rx="1" />
+  <rect x="9" y="2" width="6" height="6" rx="1" />
+  <path d="M5 16v-3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3" />
+  <path d="M12 12V8" />
+</svg>
+<text x="166" y="260" text-anchor="middle" font-family="Segoe UI,Pretendard,Apple SD Gothic Neo,Arial,sans-serif" font-size="15" font-weight="600" fill="#c8d0f5">Network</text></g><g>
+<rect x="236" y="142" width="96" height="96" rx="26" fill="url(#bgt)"/>
+<rect x="237" y="143" width="94" height="94" rx="25" fill="none" stroke="url(#bdt)" stroke-width="1.5"/>
+<svg x="261" y="165" width="46" height="46" viewBox="0 0 128 128"><path fill="#F34F29" d="M124.737 58.378L69.621 3.264c-3.172-3.174-8.32-3.174-11.497 0L46.68 14.71l14.518 14.518c3.375-1.139 7.243-.375 9.932 2.314 2.703 2.706 3.461 6.607 2.294 9.993l13.992 13.993c3.385-1.167 7.292-.413 9.994 2.295 3.78 3.777 3.78 9.9 0 13.679a9.673 9.673 0 01-13.683 0 9.677 9.677 0 01-2.105-10.521L68.574 47.933l-.002 34.341a9.708 9.708 0 012.559 1.828c3.778 3.777 3.778 9.898 0 13.683-3.779 3.777-9.904 3.777-13.679 0-3.778-3.784-3.778-9.905 0-13.683a9.65 9.65 0 013.167-2.11V47.333a9.581 9.581 0 01-3.167-2.111c-2.862-2.86-3.551-7.06-2.083-10.576L41.056 20.333 3.264 58.123a8.133 8.133 0 000 11.5l55.117 55.114c3.174 3.174 8.32 3.174 11.499 0l54.858-54.858a8.135 8.135 0 00-.001-11.501z"/></svg>
+<text x="284" y="260" text-anchor="middle" font-family="Segoe UI,Pretendard,Apple SD Gothic Neo,Arial,sans-serif" font-size="15" font-weight="600" fill="#c8d0f5">Git</text></g><g>
+<rect x="354" y="142" width="96" height="96" rx="26" fill="url(#bgt)"/>
+<rect x="355" y="143" width="94" height="94" rx="25" fill="none" stroke="url(#bdt)" stroke-width="1.5"/>
+<svg x="379" y="165" width="46" height="46" viewBox="0 0 128 128"><defs><linearGradient id="a" x1="48" x2="48" y1="97.75" y2="2.25" gradientTransform="matrix(1 0 0 -1 0 97.75)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs><path fill="#52218a" d="M14.39 26.295a5.333 5.333 0 0 0-1.417.373l-9.694 4A5.333 5.333 0 0 0 0 35.561v56.88a5.333 5.333 0 0 0 3.28 4.893l9.693 4.066a5.333 5.333 0 0 0 5.521-.865l2.172-1.867a2.947 2.947 0 0 1-4.666-2.4V31.734a2.947 2.947 0 0 1 4.666-2.4l-2.172-1.799a5.333 5.333 0 0 0-4.103-1.24z"/><path fill="#6c33af" d="M94.75.416A8 8 0 0 0 88 2.668l-82.666 91.4A3.08 3.08 0 0 1 0 92.002v.44a5.333 5.333 0 0 0 3.28 4.892l9.693 4.066a5.333 5.333 0 0 0 5.521-.865l2.172-1.867 99.08-81.24A5.053 5.053 0 0 1 128 21.334v-.307a8 8 0 0 0-4.533-7.213L97.094 1.121A8 8 0 0 0 94.75.416Z"/><path fill="#854cc7" d="M14.871 26.238a5.333 5.333 0 0 0-1.898.43l-9.694 4A5.333 5.333 0 0 0 0 35.561v.441a3.08 3.08 0 0 1 5.334-2.066L88 125.334a8 8 0 0 0 9.094 1.547l26.373-12.694a8 8 0 0 0 4.533-7.212v-.307a5.053 5.053 0 0 1-8.254 3.906l-99.08-81.24-2.172-1.865a5.333 5.333 0 0 0-3.623-1.23z"/><path fill="#b179f1" d="M94.75.416a8 8 0 0 0-5.674 1.469A4.693 4.693 0 0 1 96 6.015v116a4.693 4.693 0 0 1-8 3.319 8 8 0 0 0 9.094 1.547l26.373-12.68a8 8 0 0 0 4.533-7.213V21.016a8 8 0 0 0-4.533-7.215L97.094 1.12A8 8 0 0 0 94.75.416Zm-5.674 1.469A4.693 4.693 0 0 0 88 2.668a8 8 0 0 1 1.076-.783Z"/><path fill="url(#a)" fill-rule="evenodd" d="M94.145.348a8 8 0 0 0-3.026.386A8 8 0 0 0 88 2.668L45.494 49.682 20.666 29.334l-2.172-1.865a5.333 5.333 0 0 0-4.814-1.108 3.4 3.4 0 0 0-.707.24l-9.694 4.067A5.333 5.333 0 0 0 0 35.162v57.679a5.333 5.333 0 0 0 3.28 4.493l9.693 4a3.4 3.4 0 0 0 .707.24 5.333 5.333 0 0 0 4.814-1.105l2.172-1.801 24.828-20.346L88 125.334a8 8 0 0 0 3.854 2.135 8 8 0 0 0 5.24-.588l26.373-12.68a8 8 0 0 0 4.533-7.213V21.016a8 8 0 0 0-4.533-7.215L97.094 1.12a8 8 0 0 0-2.95-.773ZM96 36.908v54.186L62.947 64.002Zm-80 8.787 16.547 18.307L16 82.309Z" opacity=".25"/></svg>
+<text x="402" y="260" text-anchor="middle" font-family="Segoe UI,Pretendard,Apple SD Gothic Neo,Arial,sans-serif" font-size="15" font-weight="600" fill="#c8d0f5">Visual Studio</text></g></svg>
