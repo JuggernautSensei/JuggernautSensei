@@ -11,11 +11,17 @@
 - 실시간 컴퓨터 그래픽스 및 GPGPU 프로그래밍
 - 서버 및 네트워크 프로그래밍
 - 디버거를 활용한 문제 해결 및 유지보수
-- 코딩 교육 및 팀 개발 운영
 
-### 🔭 요즘 하는 것
-- C++20으로 게임 개발 라이브러리(Juggernaut 시리즈)를 만들고 있습니다.
-- GPU 컴퓨팅을 조금씩 공부하고 있습니다.
+<br>
+
+## 📌 Pinned
+<div align="center">
+
+<a href="https://github.com/JuggernautSensei/JugX"><img src="assets/pin-jugx.svg" alt="JugX" width="260"/></a>
+<a href="https://github.com/JuggernautSensei/JugGfx"><img src="assets/pin-juggfx.svg" alt="JugGfx" width="260"/></a>
+<a href="https://github.com/JuggernautSensei/JugNet"><img src="assets/pin-jugnet.svg" alt="JugNet" width="260"/></a>
+
+</div>
 
 <br>
 
