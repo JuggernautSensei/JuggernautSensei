@@ -14,7 +14,7 @@
 
 <br>
 
-## 📌 Pinned
+## 📌 Featured Projects
 <div align="center">
 
 <a href="https://github.com/JuggernautSensei/JugX"><img src="assets/pin-jugx.svg" alt="JugX" width="210"/></a>
