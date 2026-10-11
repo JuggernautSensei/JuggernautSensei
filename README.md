@@ -3,8 +3,17 @@
 </div>
 
 ## 🧑‍💻 About Me
-C/C++ 기반으로 Windows 플랫폼에서 게임, 실시간 3D 그래픽스, 네트워크 기능을 개발하는 프로그래머입니다.  
+**게임과 그래픽스를 C++로 직접 구현하는 개발자 안지우입니다.**  
+C/C++ 기반으로 Windows 플랫폼에서 게임, 실시간 3D 그래픽스, 네트워크 기능을 개발합니다.  
 C++20을 즐겨 사용하며, GPGPU 기술에도 관심이 많습니다.
+
+### ✨ Highlights
+- 🎮 **Jam Engine** 팀장 · 9개월간 자체 게임 엔진 개발, DirectX 11 렌더러 · 렌더 그래프 · GUI 에디터 구현 (캡스톤 경진대회 동상)
+- 🖥️ **실시간 3D 그래픽스** · DirectX 11, 디퍼드 렌더링, 그림자(PSSM) 구현과 최적화
+- 🚀 **GPGPU** · CUDA를 공부하며 Nsight 프로파일링으로 병목 분석
+- 🌐 **네트워크** · IOCP, WinSock 기반 멀티플레이 데모와 채팅 서버
+- 🔍 **검증하며 이해하기** · RenderDoc, Nsight, Visual Studio 디버거로 실행 상태를 근거 삼아 원인 추적
+- 🤝 **협업** · 팀 개발 리딩, Code Coach에서 1년 반 동안 코딩 교육과 운영
 
 ### 🔨 무엇을 할 수 있나요?
 - 🧩 C/C++ 고성능 라이브러리 개발
@@ -19,14 +28,7 @@ C++20을 즐겨 사용하며, GPGPU 기술에도 관심이 많습니다.
 ## 🛠️ Skills & Tools
 <div align="center">
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![DirectX](https://img.shields.io/badge/DirectX%2011-107C10?style=for-the-badge&logo=directx&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Windows API](https://img.shields.io/badge/Windows%20API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Network](https://img.shields.io/badge/Network-0EA5E9?style=for-the-badge&logo=network&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="assets/skills.svg" alt="C, C++, CUDA, DirectX 11, Windows API, Network, Git, Visual Studio" width="520"/>
 
 </div>
 
