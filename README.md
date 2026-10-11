@@ -3,15 +3,11 @@
 </div>
 
 ## 🧑‍💻 About Me
-**궁금한 원리를 직접 구현하고, 실행 결과로 확인하는 C++ 개발자입니다.**  
-C/C++ 기반으로 Windows 플랫폼에서 게임, 실시간 3D 그래픽스, 네트워크 기능을 개발합니다.  
-C++20을 즐겨 사용하며, GPGPU 기술에도 관심이 많습니다.
+게임을 좋아하다가 만드는 쪽으로 넘어온 C++ 개발자 안지우입니다.  
+Windows 환경에서 게임과 실시간 3D 그래픽스, 네트워크 기능을 C/C++로 만들고 있습니다. 직접 구현해 보면서 동작 원리를 이해하는 걸 좋아하고, 함께 쓰는 사람이 이해하기 쉬운 구조가 무엇일지 고민하는 편입니다. 요즘은 C++20을 쓰면서 컴퓨터 그래픽스와 게임 엔진을 중심으로 공부하고, GPU 컴퓨팅 쪽으로 관심을 넓히고 있습니다.
 
 ### 🧭 일하는 방식
-- 🔬 새로운 분야는 작게라도 직접 구현하며 원리를 이해합니다.
-- 🔍 추측보다 실행 상태와 데이터를 근거로 원인을 좁혀 갑니다.
-- 🧱 성능과 함께 쓰는 사람이 이해하기 쉬운 구조를 같이 고민합니다.
-- 🤝 맡은 영역은 책임지고, 상황을 공유하며 필요한 일은 함께 맡습니다.
+새로운 걸 배울 때는 예제를 그대로 옮기기보다 원리를 이해한 뒤 제 방식으로 다시 만들어 봅니다. 결과가 예상과 다르면 추측으로 고치지 않고, RenderDoc이나 Nsight 같은 도구로 실행 상태를 확인하면서 원인을 찾습니다. 팀에서는 맡은 영역을 끝까지 책임지고, 진행 상황을 자주 공유하려고 합니다.
 
 ### 🔨 무엇을 할 수 있나요?
 - 🧩 C/C++ 고성능 라이브러리 개발
@@ -26,26 +22,18 @@ C++20을 즐겨 사용하며, GPGPU 기술에도 관심이 많습니다.
 ## 🛠️ Skills & Tools
 <div align="center">
 
-<img src="assets/skills.svg" alt="C, C++, CUDA, DirectX 11, Windows API, Network, Git, Visual Studio" width="520"/>
+<img src="assets/tech-stack.svg" alt="C, C++, CUDA, DirectX 11, Windows API, Network, Git, Visual Studio" width="440"/>
 
 </div>
 
 <br>
 
-## 🌐 Social
+## 📮 Social & Contact
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuggernautSensei/)
-[![Notion](https://img.shields.io/badge/Notion%20Blog-000000?style=for-the-badge&logo=notion&logoColor=white)](https://juggernautsensei.notion.site/Jiwoo-s-Blog-c19c3fb6c02f82aa82be815072f54811)
-
-</div>
-
-<br>
-
-## 📮 Contact
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alsxm0030@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/654309825215332382)
+<a href="https://github.com/JuggernautSensei/"><img src="assets/link-github.svg" alt="GitHub" width="96"/></a>&nbsp;&nbsp;
+<a href="https://juggernautsensei.notion.site/Jiwoo-s-Blog-c19c3fb6c02f82aa82be815072f54811"><img src="assets/link-notion.svg" alt="Notion Blog" width="96"/></a>&nbsp;&nbsp;
+<a href="mailto:alsxm0030@gmail.com"><img src="assets/link-gmail.svg" alt="Gmail" width="96"/></a>&nbsp;&nbsp;
+<a href="https://discord.com/users/654309825215332382"><img src="assets/link-discord.svg" alt="Discord" width="96"/></a>
 
 </div>
