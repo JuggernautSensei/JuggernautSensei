@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="126" viewBox="0 0 96 126"><defs>
+<linearGradient id="bgl" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1840"/><stop offset="1" stop-color="#0d0b22"/></linearGradient>
+<linearGradient id="bdl" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00f0ff" stop-opacity=".55"/><stop offset="1" stop-color="#ff2e97" stop-opacity=".55"/></linearGradient>
+<linearGradient id="dxgl" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9be58f"/><stop offset="1" stop-color="#2fa84f"/></linearGradient></defs><g>
+<rect x="0" y="0" width="96" height="96" rx="26" fill="url(#bgl)"/>
+<rect x="1" y="1" width="94" height="94" rx="25" fill="none" stroke="url(#bdl)" stroke-width="1.5"/>
+<svg x="25" y="23" width="46" height="46" viewBox="0 0 24 24" fill="#EA4335"><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg>
+<text x="48" y="118" text-anchor="middle" font-family="Segoe UI,Pretendard,Apple SD Gothic Neo,Arial,sans-serif" font-size="15" font-weight="600" fill="#c8d0f5">Gmail</text></g></svg>
