@@ -19,17 +19,18 @@
 ### ✨ Libraries
 <div align="center">
 
-<a href="https://github.com/JuggernautSensei/JugX"><img src="assets/pin-jugx.svg" alt="JugX" width="210"/></a>
-<a href="https://github.com/JuggernautSensei/JugGfx"><img src="assets/pin-juggfx.svg" alt="JugGfx" width="210"/></a>
-<a href="https://github.com/JuggernautSensei/JugNet"><img src="assets/pin-jugnet.svg" alt="JugNet" width="210"/></a>
+<a href="https://github.com/JuggernautSensei/Juggernaut"><img src="assets/pin-juggernaut.svg" alt="Juggernaut" width="190"/></a>
+<a href="https://github.com/JuggernautSensei/JugX"><img src="assets/pin-jugx.svg" alt="JugX" width="190"/></a>
+<a href="https://github.com/JuggernautSensei/JugGfx"><img src="assets/pin-juggfx.svg" alt="JugGfx" width="190"/></a>
+<a href="https://github.com/JuggernautSensei/JugNet"><img src="assets/pin-jugnet.svg" alt="JugNet" width="190"/></a>
 
 </div>
 
 ### 🎮 Games
 <div align="center">
 
-<a href="https://github.com/JuggernautSensei/TextGradius"><img src="assets/pin-textgradius.svg" alt="Text Gradius" width="210"/></a>
-<a href="https://github.com/JuggernautSensei/MetalSlug2-Clone"><img src="assets/pin-metalslug2.svg" alt="Metal Slug2 Clone" width="210"/></a>
+<a href="https://github.com/JuggernautSensei/TextGradius"><img src="assets/pin-textgradius.svg" alt="Text Gradius" width="190"/></a>
+<a href="https://github.com/JuggernautSensei/MetalSlug2-Clone"><img src="assets/pin-metalslug2.svg" alt="Metal Slug2 Clone" width="190"/></a>
 
 </div>
 
