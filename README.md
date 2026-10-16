@@ -49,6 +49,7 @@
 <div align="center">
 
 <a href="https://github.com/JuggernautSensei/"><img src="assets/link-github.svg" alt="GitHub" width="96"/></a>&nbsp;&nbsp;
+<a href="https://juggernautsensei.github.io/"><img src="assets/link-githubio.svg" alt="GitHub.io" width="96"/></a>&nbsp;&nbsp;
 <a href="https://juggernautsensei.notion.site/Jiwoo-s-Blog-c19c3fb6c02f82aa82be815072f54811"><img src="assets/link-notion.svg" alt="Notion Blog" width="96"/></a>&nbsp;&nbsp;
 <a href="mailto:alsxm0030@gmail.com"><img src="assets/link-gmail.svg" alt="Gmail" width="96"/></a>&nbsp;&nbsp;
 <a href="https://discord.com/users/654309825215332382"><img src="assets/link-discord.svg" alt="Discord" width="96"/></a>
