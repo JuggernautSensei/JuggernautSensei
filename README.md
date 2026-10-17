@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/banner.svg" alt="Ahn Jiwoo - C/C++ | Game Development | Computer Graphics" width="100%"/>
+<img src="assets/banner.png" alt="Ahn Jiwoo - C/C++ | Game Development | Computer Graphics" width="100%"/>
 </div>
 
 ## 🧑‍💻 About Me
