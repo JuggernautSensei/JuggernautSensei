@@ -16,7 +16,7 @@
 ## 🛠️ Skills & Tools
 <div align="center">
 
-<img src="assets/tech-stack.svg" alt="C, C++, Direct3D 11, CUDA, Winsock, Windows, Visual Studio, Git" width="440"/>
+<img src="assets/tech-stack-v2.svg" alt="C, C++, Direct3D 11, CUDA, Winsock, Windows, Visual Studio, Git" width="440"/>
 
 </div>
 
